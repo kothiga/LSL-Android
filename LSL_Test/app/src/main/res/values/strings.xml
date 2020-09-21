@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LSL_Test</string>
+    <string name="start_button_text_start">START</string>
+    <string name="start_button_text_stop">STOP</string>
+    <string name="sine_button_text">SIN</string>
+    <string name="saw_button_text">SAW</string>
+</resources>
