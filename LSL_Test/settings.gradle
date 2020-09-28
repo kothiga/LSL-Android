@@ -12,5 +12,5 @@ if(hasProperty("liblsl_java_dir")) {
 else {
     println("Looking for liblsl-Java in the default path.")
     println("Change this via 'gradle -Pliblsl_java_dir=path/here if this fails")
-    project(':liblsl-Java').projectDir = new File("/home/austin/labstreaminglayer/LSL/liblsl-Java")
+    project(':liblsl-Java').projectDir = new File("../../../deps/labstreaminglayer/LSL/liblsl-Java")
 }
